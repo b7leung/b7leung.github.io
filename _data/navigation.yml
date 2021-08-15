@@ -17,8 +17,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /files/Resume_Brandon_Leung.pdf
 
   - title: "Resume"
     url: /files/Resume_Brandon_Leung.pdf
