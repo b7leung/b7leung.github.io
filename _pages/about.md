@@ -12,4 +12,10 @@ Hi! I'm 2nd year Masters student majoring in Machine Learning and Data Science a
 
 In my research, I have focused on various topics including 2D/3D detection, domain adaptation, autonomous vehicle navagation, GANs, 3D reconstruction, embeddings, self-supervised learning, and explainable neural networks. For details, please see the [projects page](https://b7leung.github.io/projects/) and [publications page](https://b7leung.github.io/publications/).  
 
-Previously, I earned a Bachelors (Magna Cum Laude) from UC San Diego in Computer Science. More details can be found in my [resume here](https://b7leung.github.io/files/Resume_Brandon_Leung.pdf), and my [CV here]().
+Previously, I earned a Bachelors degree from UC San Diego in Computer Science. More details can be found in my [resume here](https://b7leung.github.io/files/Resume_Brandon_Leung.pdf), and my [CV here]().
+
+Highlights and News
+======
+  * March
+  * **[June 10th]** asdf
+  * **[June 15th]** asdfasdf
