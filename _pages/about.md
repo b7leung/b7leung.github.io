@@ -25,5 +25,10 @@ Highlights and News
   *  Awarded an **NSF REU Research Grant** to study neural network robustness. [Sep. 2018]
   *  Awarded the **Qualcomm Alumni Scholarship**. [Sep. 2018]
   *  Will **TA** for DSC 40A/B, 2 exciting new data science courses at UCSD. [Jan. 2018]
-  *  Accepted into [UC LEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html), a selective **scholarship/mentorship program**. [Apr. 2017]
+  *  Accepted into [UC LEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html), a selective **scholarship & mentorship program**. [Apr. 2017]
+
+Contact
+======
+Primary email: b7leung@ucsd.edu
+Secondary email: brandonl9981@yahoo.com
 
