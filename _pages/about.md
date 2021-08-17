@@ -12,11 +12,11 @@ Hi! I'm 2nd year Masters student majoring in Machine Learning and Data Science a
 
 In my research, I have focused on various topics including 2D/3D detection, domain adaptation, autonomous vehicle navagation, GANs, 3D reconstruction, embeddings, self-supervised learning, and explainable neural networks. For details, please see the [projects page](https://b7leung.github.io/projects/) and [publications page](https://b7leung.github.io/publications/).  
 
-Previously, I earned a Bachelors degree from UC San Diego in Computer Science. More details can be found in my [resume](https://b7leung.github.io/files/Resume_Brandon_Leung.pdf), and my [CV]().
+Previously, I earned a Bachelors degree from UC San Diego in Computer Science. More details can be found in my [resume](https://b7leung.github.io/files/Resume_Brandon_Leung.pdf), and my [CV](https://b7leung.github.io/files/CV_Brandon_Leung.pdf).
 
 Highlights and News
 ======
-  *  Will **mentor** 2 groups for [UCSD's ECE Internship Program](https://www.ece.ucsd.edu/undergraduate/SRIP); monocular depth estimation and autonomous vehicle navagation. [Mar. 2021]
+  *  Will **mentor** 2 groups for [UCSD's ECE Internship Program](https://www.ece.ucsd.edu/undergraduate/SRIP), in **monocular depth estimation** and **autonomous vehicle navagation**. [Mar. 2021]
   *  Awarded **NSF Graduate Research Fellowship (NSF GRFP)** from the [US National Science Foundation Agency](https://www.nsfgrfp.org/). [Mar. 2020]
   *  Awarded **Sloan Graduate Research Fellowship** from the [Sloan Foundation](https://sloan.org/). [Sep. 2019]
   *  Paper on neural network robustness **published at CVPR 2019**, where I will give a poster presentation. [Jun. 2019]
