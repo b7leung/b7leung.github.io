@@ -16,7 +16,7 @@ Previously, I earned a Bachelors degree from UC San Diego in Computer Science. M
 
 Highlights and News
 ======
-  *  Will **mentor** 2 groups for [UCSD's ECE Internship Program](https://www.ece.ucsd.edu/undergraduate/SRIP); monocular depth estimation and autonomous vehicle navagation. [Feb. 2021]
+  *  Will **mentor** 2 groups for [UCSD's ECE Internship Program](https://www.ece.ucsd.edu/undergraduate/SRIP); monocular depth estimation and autonomous vehicle navagation. [Mar. 2021]
   *  Awarded **NSF Graduate Research Fellowship (NSF GRFP)** from the [US National Science Foundation Agency](https://www.nsfgrfp.org/). [Mar. 2020]
   *  Awarded **Sloan Graduate Research Fellowship** from the [Sloan Foundation](https://sloan.org/). [Sep. 2019]
   *  Paper on neural network robustness **published at CVPR 2019**, where I will give a poster presentation. [Jun. 2019]
@@ -27,4 +27,3 @@ Highlights and News
   *  Will **TA** for DSC 40A/B, 2 exciting new data science courses at UCSD. [Jan. 2018]
   *  Accepted into [UC LEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html), a selective **research scholarship program**. [Apr. 2017]
 
-  
