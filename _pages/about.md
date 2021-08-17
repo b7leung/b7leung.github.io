@@ -29,6 +29,7 @@ Highlights and News
 
 Contact
 ======
-Primary email: b7leung@ucsd.edu
-Secondary email: brandonl9981@yahoo.com
+**Primary email:** b7Leung@ucsd.edu
+
+**Secondary email:** brandonL9981@yahoo.com
 
