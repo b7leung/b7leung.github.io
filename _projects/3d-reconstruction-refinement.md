@@ -1,12 +1,12 @@
 ---
 title: "Refining Single View 3D Reconstructions with Self-Supervised Machine Learning"
-excerpt: "📅 **Aug. 2020 - Present** <br/> Developed a novel neural network refinement algorithm to generate 3D meshes from a single image. Used self-supervised learning & symmetry regularization; beats state-of-the-art (up to 47%), across many datasets. <br/><img src='/images/REFINE_Main_Picture.jpg'>"
+excerpt: "📅 **Aug. 2020 - Present** <br/> Developed a novel neural network refinement algorithm to generate 3D meshes from a single image. Used self-supervised learning & symmetry regularization; beats state-of-the-art (up to 47%), across many datasets. <br/><img src='/images/REFINE_Main_Picture.png'>"
 collection: projects
 ---
 
 📅 **Aug. 2020 - Present**
 
-<img src='/images/REFINE_Main_Picture.jpg'>
+<img src='/images/REFINE_Main_Picture.png'>
 
 Much recent progress has been made in reconstructing
 the 3D shape of an object from an image of it, i.e. single
