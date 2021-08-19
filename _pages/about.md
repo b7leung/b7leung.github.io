@@ -18,7 +18,7 @@ Highlights and News
 ======
   *  Will **mentor** 2 groups for [UCSD's ECE Internship Program](https://www.ece.ucsd.edu/undergraduate/SRIP), in **monocular depth estimation** and **autonomous vehicle navagation**. [Mar. 2021]
   *  Awarded **NSF Graduate Research Fellowship (NSF GRFP)** from the [US National Science Foundation Agency](https://www.nsfgrfp.org/). [Mar. 2020]
-  *  Awarded **Sloan Graduate Research Fellowship** from the [Sloan Foundation](https://sloan.org/). [Sep. 2019]
+  *  Awarded **Sloan Graduate Fellowship** from the [Sloan Foundation](https://sloan.org/). [Sep. 2019]
   *  Paper on neural network robustness **published at CVPR 2019**, where I will give a poster presentation. [Jun. 2019]
   *  Graduated **Magna Cum Laude at UCSD, B.Sc in Computer Science**. [Jun. 2019] 
   *  Won the 2019 **UCSD Undergraduate Research Award** (awarded to 2 graduating ECE students each year). [May 2019]
