@@ -1,6 +1,6 @@
 ---
-title: "Drone Flight Dataset for Neural Network Classification Vulnerabilities"
-excerpt: "📅 **Jun. 2017 - Present** <br/> Published to CVPR 2019. Developed a novel drone flight system to collect over 120,000 images. The data was used to conduct experiments showing severe vulnerabilities (30% drop) in neural networks like ResNet to pose & camera shake. <br/><img src='/images/OOWL_Main_Picture.jpg'>"
+title: "Drone Flight Dataset for Neural Network Classification Robustness"
+excerpt: "📅 **Jun. 2017 - Present** <br/> Developed a drone flight system to collect over 120,000 images. The data was used to conduct experiments showing severe vulnerabilities (30% drop) in neural networks like ResNet to pose & camera shake. Findings published to CVPR 2019. <br/><img src='/images/OOWL_Main_Picture.jpg'>"
 collection: projects
 ---
 
