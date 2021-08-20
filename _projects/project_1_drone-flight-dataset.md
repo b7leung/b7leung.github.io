@@ -9,7 +9,7 @@ collection: projects
 <img src='/images/OOWL_Main_Picture.jpg'>
 
 
-Paper | Main Website | <img src="/images/github_icon.png" width="12" height="12"> [Github](https://github.com/b7leung/OOWL-Drone-Flight-System)
+[ 📄 [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) • <img src="/images/github_icon.png" width="17" height="17"> [Github](https://github.com/b7leung/OOWL-Drone-Flight-System) ]
 
 
 
