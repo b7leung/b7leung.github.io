@@ -4,7 +4,7 @@ excerpt: "📅 **Aug. 2020 - Present** <br/> Developed a novel neural network re
 collection: projects
 ---
 
-📅 **Aug. 2020 - Present**
+📅 **Aug. 2020 - Present** • 📄 Paper • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/3D-Mesh-REFINEment)
 
 <img src='/images/REFINE_Main_Picture.png'>
 

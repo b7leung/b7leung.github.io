@@ -4,9 +4,7 @@ excerpt: "📅 **Jun. 2017 - Present** <br/> Developed a drone flight system to 
 collection: projects
 ---
 
-📅 **Jun. 2017 - Present**
-
-📄 [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/OOWL-Drone-Flight-System)
+📅 **Jun. 2017 - Present** • 📄 [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/OOWL-Drone-Flight-System)
 
 <img src='/images/OOWL_Main_Picture.jpg'>
 
