@@ -7,5 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-asdfasdf
+{% for post in site.projects1 %}
+  {% include archive-single.html %}
+{% endfor %}
 
