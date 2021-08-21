@@ -1,6 +1,6 @@
 ---
 title: "Drone Flight Dataset for Neural Network Classification Robustness"
-excerpt: "📅 **Sep. 2018 - Present** <br/> Developed a drone flight system to collect over 120,000 images. The dataset was used to conduct experiments showing severe vulnerabilities (30% drop) in neural networks to pose & camera shake. Findings published to CVPR 2019. [More info.](https://b7leung.github.io/projects/project_1_drone-flight-dataset/) <br/><img src='/images/OOWL_Main_Picture.jpg'>"
+excerpt: "📅 **Sep. 2018 - Present** <br/> Developed a drone flight system to collect over 120,000 images. The dataset was used to conduct experiments showing severe vulnerabilities (30% drop) in neural networks to pose & camera shake. Findings published to CVPR 2019. [More info.](https://b7leung.github.io/projects/1_drone-flight-dataset/) <br/><img src='/images/OOWL_Main_Picture.jpg'>"
 collection: projects
 ---
 

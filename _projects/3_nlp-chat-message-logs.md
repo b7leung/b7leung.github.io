@@ -1,6 +1,6 @@
 ---
 title: "Statistical Linguistic Analysis for User Chat Message Logs"
-excerpt: "📅 **Feb. 2021 - Jul. 2021** <br/> An interactive dashboard to analyze user chat logs and describe their linguistic behavior. NLP transformer models (RoBERTa, GPT-2) are utilized for sentiment analysis, clustering, style transfer, & generative modeling. [More info.](https://b7leung.github.io/projects/project-3-nlp-chat-message-logs/) <br/><img src='/images/nlp_chat_logs_Main_Picture.png'>"
+excerpt: "📅 **Feb. 2021 - Jul. 2021** <br/> An interactive dashboard to analyze user chat logs and describe their linguistic behavior. NLP transformer models (RoBERTa, GPT-2) are utilized for sentiment analysis, clustering, style transfer, & generative modeling. [More info.](https://b7leung.github.io/projects/3_nlp-chat-message-logs/) <br/><img src='/images/nlp_chat_logs_Main_Picture.png'>"
 collection: projects
 ---
 
