@@ -3,7 +3,7 @@ title: "Refining Single View 3D Reconstructions with Self-Supervised Machine Lea
 excerpt: "📅 **Jan. 2021 - Present** <br/> Developed a novel neural network refinement algorithm to generate 3D meshes from a single image. Used self-supervised learning & symmetry regularization; beats state-of-the-art (up to 47%), across many datasets. [More info.](https://b7leung.github.io/projects/3d-reconstruction-refinement/) <br/><img src='/images/REFINE_Main_Picture.png'>"
 collection: projects
 redirect_from: 
-  - /3d-reconstruction-refinement/
+  - /projects/3d-reconstruction-refinement/
 ---
 
 📅 **Jan. 2021 - Present** • 📄 Paper • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/3D-Mesh-REFINEment)
