@@ -3,7 +3,7 @@ title: "Connect Four AI Using Reinforcement Learning"
 excerpt: "📅 **Mar. 2020 - Jun. 2020** <br/> AI that learns to play Connect Four, with reinforcement learning (Q-Learning & Monte-Carlo policy iteration). [More info.](https://b7leung.github.io/projects/connect-four-ai/) <br/><img src='/images/connect_four_Main_Picture.jpg'>"
 collection: projects
 redirect_from: 
-  - /connect-four-ai/
+  - /projects/connect-four-ai/
 ---
 
 📅 **Mar. 2020 - Jun. 2020** • 📄 [Report](https://b7leung.github.io/files/Connect%20Four.pdf) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/Reinforcement-Learning-Connect-Four)
