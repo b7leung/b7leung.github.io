@@ -12,7 +12,7 @@ redirect_from:
 
 <figure>
   <img src='/images/OOWL_Main_Picture.jpg'>
-  <figcaption>Left: The drone collecting images. Center: example object from the phone class, in two different domains: in the lab, and in the wild. Right: example of drone camera shake.</figcaption>
+  <figcaption>Left: The drone collecting images. Center: Example object from the phone class, in two different domains: in the lab, and in the wild. Right: Example of drone camera shake.</figcaption>
 </figure>
 
 In this project, I was the leader and main developer of a novel **drone flight system**, using the Parrot AR.Drone Quadricopter. With Python, OpenCV, and ROS, I used the **drone's low-level API, computer/machine vision techniques, and PID controls** to enable a new “in the lab“ data collection infrastructure is proposed consisting of a drone which captures images as it circles around objects. It's inexpensive and easily replicable nature may also potentially lead to a scalable data collection effort by the computer vision community. The procedure's usefulness is demonstrated by creating a **multiview image dataset of Objects Obtained With fLight (OOWL)**. Currently, OOWL contains 120,000 images of 500 objects and is the largest “in the lab“ image dataset available when both number of classes and objects per class are considered. Additional images were also obtained by placing the objects in real-world locations, enabling **multiple domains** to be studied.
@@ -33,6 +33,7 @@ The OOWL dataset was then used to study the robustness of modern neural network 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WdvkxDUGUz0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
+
 Citation Info
 ======
 
