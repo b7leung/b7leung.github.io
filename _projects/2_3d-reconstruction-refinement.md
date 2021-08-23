@@ -31,7 +31,7 @@ This project proposes a novel neural network **refinement algorithm to improve 3
   <figcaption>Quantative results on the Pix3D dataset.</figcaption>
 </figure>
 
-<img src="/images/REFINE/refine_quant.png" style="width:50px;height:60px;" >
+<img src="/images/REFINE/refine_quant.png" style="height:25%;" >
 
 Citation Info
 ======
