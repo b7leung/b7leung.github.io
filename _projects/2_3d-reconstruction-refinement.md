@@ -17,7 +17,7 @@ This project proposes a novel neural network **refinement algorithm to improve 3
 
 
 <figure>
-  <img src="/images/REFINE/refine_qual.png" style="width:394px;height:262px;">
+  <img src="/images/REFINE/refine_qual.png">
   <figcaption>Example mesh REFINEments for Pix3D dataset.</figcaption>
 </figure>
 
