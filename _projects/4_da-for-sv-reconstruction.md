@@ -8,14 +8,12 @@ redirect_from:
 
 📅 **Jun. 2020 - Dec. 2020** • 📄 [Paper](https://b7leung.github.io/files/DA_For_SVR.pdf) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/Domain-Adaptation-Single-View-Reconstruction)
 
-<img src='/images/DA_For_SVR_Main_Picture.png'>
-
 <figure>
   <img src="/images/DA_For_SVR_Main_Picture.png" >
   <figcaption>The proposed architecture, which is based off the pix2vox framework. We provide two additions: 1) incorporating domain adaptation in the style of DANN through a domain classifier and a gradient reversal layer, and 2) since we have classification labels for both the source and target domain, we also classify the produced voxel.</figcaption>
 </figure>
 
-In this project, several domain adaptation methods were applied to the task of single view 3D reconstruction, including MMD, Deep CORAL, and DANN. The source domain is ShapeNet which is synthetic, while the target domain is OOWL which is in the real domain (I helped design OOWL, see here for more details). Overall, we found that DANN with a multitask learning voxel classification branch led to the best results.
+In this project, several **unsupervised domain adaptation** methods were applied to the task of **single view 3D reconstruction**, including MMD, Deep CORAL, and DANN. The source domain is ShapeNet which is synthetic, while the target domain is OOWL which is in the real domain (I helped design OOWL, see [here](https://b7leung.github.io/projects/drone-flight-dataset/) for more details). Overall, we found that our proposed **DANN with a multitask learning voxel classification branch** led to the best results. For details, please refer to the [paper](https://b7leung.github.io/files/DA_For_SVR.pdf).
 
 
 <figure>
