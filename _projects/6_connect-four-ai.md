@@ -14,5 +14,5 @@ This project studies two **reinforcement learning** algorithms: **Q-learning** a
 
 <figure>
   <img src="/images/mcpi_qlearning.png" >
-  <figcaption>Algorithm used for Monte-Carlo Policy Iteration and Q-Learning.</figcaption>
+  <figcaption>Algorithms used for Monte-Carlo Policy Iteration and Q-Learning.</figcaption>
 </figure>
