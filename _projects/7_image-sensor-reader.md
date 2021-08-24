@@ -12,3 +12,7 @@ redirect_from:
 
 In this project, I developed a suite of tools using Java to **analyze image sensor quality**. The tools were for [Himax Imaging](https://www.himax.com.tw/), an R&D/fabrication company specializing in CMOS image sensors used in smartphone cameras and car backup cameras. The program depicts the **sensors’ silicon wafer** with indications of areas with the most unstable sensor chips. Also provides functions like **history recording, re/undo, statistics calculation, pixel editing, and image transformations**, behind a user-friendly GUI. 
 
+<figure>
+  <img src="/images/himax_cmos.jpg" >
+  <figcaption>An example CMOS imaging camera from Himax Imaging.</figcaption>
+</figure>
