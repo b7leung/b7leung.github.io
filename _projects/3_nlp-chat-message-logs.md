@@ -14,6 +14,25 @@ In this project, I worked in a group of 5 to develop an **interactive dashboard*
 
 I mainly worked on the UI, deployment, and generative modeling. The generative modeling utilizes the [BlenderBot](https://arxiv.org/pdf/2004.13637.pdf) chatbot based on RoBERTa, along with [unsupervised style transfer](https://arxiv.org/pdf/2010.05700.pdf) based on a Seq2Seq Transformer from Krishna Et. al. As a proof of concept, a [Discord chat](https://www.kaggle.com/jef1056/discord-data) dataset was used.
 
+<figure>
+  <img src="/images/NLP_suite/nlp_chat_main.png" >
+  <figcaption>The initial user interface. The user uploads a chat log to start the analysis.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/NLP_suite/nlp_chat_patterns.png" >
+  <figcaption>The Patterns & Clusters tab provides basic statistical information from the uploaded chat log. Additionally, the chatter is plotted in 3D using TF-IDF vectors and k-means clustering. This allows one to find other chatters similar to the uploaded chatter.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/NLP_suite/nlp_chat_sentiment.png" >
+  <figcaption>The Sentiment tab classifies all the messages from the uploaded chatter's logs, into one of five emotions: sadness, joy, neutral, anger, and fear. The top 5 sentences of each emotion can be shown.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/NLP_suite/nlp_chat_gen.png" >
+  <figcaption>The Chatbot tab provides an interactive stylized chatbot, which one can use to query novel, style-consistent responses from based on the uploaded chatter's logs.</figcaption>
+</figure>
 
 <figure>
   <img src="/images/NLP_suite/deployment_arch.png" >
@@ -22,5 +41,5 @@ I mainly worked on the UI, deployment, and generative modeling. The generative m
 
 <figure>
   <img src="/images/NLP_suite/example_chat.png" >
-  <figcaption>Example generative modeling from the stylized chatbot.</figcaption>
+  <figcaption>More examples of generative modeling from the stylized chatbot, trained on several users' chat logs.</figcaption>
 </figure>
