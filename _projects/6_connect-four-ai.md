@@ -10,11 +10,5 @@ redirect_from:
 
 <img src='/images/connect_four_Main_Picture.jpg'>
 
-In this project, we focus on studying two classical reinforcement learning algorithms: Q-learning and Monte-Carlo
-policy iteration. These techniques are applied to a two-player game called Connect Four, which is a game similar
-to tic-tac-toe, in order to learn a policy which will allow an AI agent to play the game at a high level. In Section 2,
-we formally describe the game as an MDP. Then, in Section 3 we describe our RL algorithms and how it can be
-applied to the MDP formulation. This includes the generation of episodes using self-play, which we will use to
-update our policy. Finally, in Section 4 the final results are presented on a variety of different opponents. We also
-give some insight into the affect of various parameters and give some visualizations of the results.
+This project studies two **reinforcement learning** algorithms: **Q-learning** and **Monte-Carlo policy iteration**. These techniques are applied to a two-player game called **Connect Four**, which is a game similar to tic-tac-toe, in order to learn a policy which will allow an AI agent to play the game at a high level. The game is formally described as a **Markv decision process** (MDP), and the RL algorithms are applied to it. This includes the generation of episodes using **self-play**, used to update the policy. The final results are presented qualitatively and quantitatively on a variety of different opponents. Insight is also given into the effect of various parameters, finishing with recommendation on which are the most beneficial. For details, please refer to the [report](https://b7leung.github.io/files/Connect%20Four.pdf).
 

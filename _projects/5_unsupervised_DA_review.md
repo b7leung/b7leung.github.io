@@ -10,9 +10,12 @@ redirect_from:
 
 <img src='/images/da_review_main_picture.jpg'>
 
-Deep learning-based object reconstruction algorithms
-have shown remarkable improvements over classical methods. However, supervised learning based methods perform
-poorly when the training data and the test data have different distributions. Indeed, most current works perform
-satisfactorily on the synthetic ShapeNet dataset, but dramatically fail in when presented with real world images. To
-address this issue, unsupervised domain adaptation can be
-used transfer knowledge from the label
+In supervised machine learning, a common paradigm is to use labeled data (the “training set”) to learn the weights of some model, and deploy it to unseen data at test time. Unfortunately, this is not always realistic in practice, because **labeled data can be hard to obtain**. Thus, we often find ourselves in a situation where we don’t have labeled data in the distribution we’re actually interested in (called the test distribution). In the test distribution, we only have **unlabeled data**. However, we do have labeled data in a similar distribution (called the **target distribution**). Note that there might be a gap between these two domains, and that some adaptation needs to occur for optimal performance.
+
+In this project a survey of current methods in the **unsupervised domain adaptation** literature is performed, and a **unified taxonomy is proposed** to generalize the methods within one framework. A critical analysis is also taken at **Contrastive Adaptation Network (CAN)**, one of the state-of-the-art method which utilizes psuedolabels. Recommendations are made with regards to CAN, to further improve performance beyond what is stated in the authors original paper.
+
+
+<figure>
+  <img src="/images/da.png" >
+  <figcaption>Some example unsupervised domain adaptation methods that are surveyed. From top to bottom: Deep CORAL, Contrastive Adaptation Networks, Domain Adversarial Neural Networks.</figcaption>
+</figure>
