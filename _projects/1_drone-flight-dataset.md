@@ -1,6 +1,6 @@
 ---
 title: "Drone Flight Dataset for Neural Network Classification Robustness"
-excerpt: "📅 **Sep. 2018 - Present** • 🔎[More Info](https://b7leung.github.io/projects/drone-flight-dataset/) • 📄 [CVPR Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) <br/> Developed a drone flight system to collect over 120,000 images. The dataset was used to conduct experiments showing severe vulnerabilities (30% drop) in neural networks to pose & camera shake. Findings published to CVPR 2019. <br/><img src='/images/OOWL_Main_Picture.jpg'>"
+excerpt: "📅 **Sep. 2018 - Present** • 🔎[More Info](https://b7leung.github.io/projects/drone-flight-dataset/) • 📄 [CVPR Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) <br/> A **drone flight system** to collect over 120,000 images. The dataset was used to conduct experiments showing severe vulnerabilities (30% drop) in neural networks to pose & camera shake. Findings published to CVPR 2019. <br/><img src='/images/OOWL_Main_Picture.jpg'>"
 collection: projects
 redirect_from: 
   - /projects/drone-flight-dataset/

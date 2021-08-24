@@ -1,6 +1,6 @@
 ---
 title: "CMOS Image Sensor Quality Analysis"
-excerpt: "📅 **Jun. 2015 - Sep. 2016** • 🔎[More Info](https://b7leung.github.io/projects/image-sensor-reader/) <br/> Developed a suite of tools to analyze image sensor quality. Depicts the sensors’ silicon wafer with indications of areas with the most unstable sensor chips. Also provides functions like history recording, re/undo, statistics calculation, pixel editing, and image transformations, behind a user-friendly GUI. <br/><img src='/images/image_sensor_Main_Picture.jpg'>"
+excerpt: "📅 **Jun. 2015 - Sep. 2016** • 🔎[More Info](https://b7leung.github.io/projects/image-sensor-reader/) <br/> A suite of tools to analyze image sensor quality. Depicts the sensors’ silicon wafer with indications of areas with the most unstable sensor chips. Also provides functions like history recording, re/undo, statistics calculation, pixel editing, and image transformations, behind a user-friendly GUI. <br/><img src='/images/image_sensor_Main_Picture.jpg'>"
 collection: projects
 redirect_from: 
   - /projects/image-sensor-reader/

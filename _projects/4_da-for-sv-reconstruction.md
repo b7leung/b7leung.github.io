@@ -1,6 +1,6 @@
 ---
 title: "Domain Adaptation for Real-World Single View 3D Reconstruction"
-excerpt: "📅 **Jun. 2020 - Dec. 2020** • 🔎[More Info](https://b7leung.github.io/projects/da-for-sv-reconstruction/) • 📄 [Paper](https://b7leung.github.io/files/DA_For_SVR.pdf) <br/> Applied several domain adaptation techniques (MMD, Deep CORAL, DANN) to enable unsupervised transfer from CAD ShapeNet data to real world data, for the task of single view 3D reconstruction. <br/><img src='/images/DA_For_SVR_Main_Picture.png'>"
+excerpt: "📅 **Jun. 2020 - Dec. 2020** • 🔎[More Info](https://b7leung.github.io/projects/da-for-sv-reconstruction/) • 📄 [Paper](https://b7leung.github.io/files/DA_For_SVR.pdf) <br/> Studies the application of several domain adaptation techniques (MMD, Deep CORAL, DANN) to enable unsupervised transfer from CAD ShapeNet data to real world data, for the task of single view 3D reconstruction. <br/><img src='/images/DA_For_SVR_Main_Picture.png'>"
 collection: projects
 redirect_from: 
   - /projects/da-for-sv-reconstruction/
