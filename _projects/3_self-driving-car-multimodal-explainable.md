@@ -1,6 +1,6 @@
 ---
 title: "Self-Driving Cars using 2D/3D Action and Explanation Prediction"
-excerpt: "📅 **Feb. 2021 - Present** <br/> Self Driving Cars <br/><img src='/images/REFINE_Main_Picture.png'>"
+excerpt: "📅 **Feb. 2021 - Present** • 🔎[More Info](https://b7leung.github.io/projects/self-driving-car-multimodal-explainable/)<br/> Self Driving Cars <br/><img src='/images/REFINE_Main_Picture.png'>"
 collection: projects
 redirect_from: 
   - /projects/self-driving-car-multimodal-explainable/
