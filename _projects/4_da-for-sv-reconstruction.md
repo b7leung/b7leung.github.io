@@ -35,6 +35,6 @@ In this project, several **unsupervised domain adaptation** methods were applied
 Citation Info
 ======
 
-_Leung, B., Ho, C. H., Sandstrom, E., Chang, Y., & Vasconcelos, N. (2019). Catastrophic child's play: Easy to perform, hard to defend adversarial attacks. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 9229-9237)._
+_Leung, B., Singh, S., & Horodniceanu, A. (2021). Domain adaptation for real-world single view 3d reconstruction. ArXiv:2108.10972 [Cs]. http://arxiv.org/abs/2108.10972_
 
 
