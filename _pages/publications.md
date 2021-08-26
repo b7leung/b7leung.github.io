@@ -15,7 +15,7 @@ This page provides a concise list of my publications. A link to each paper and i
 
 **Leung, B.**, Ho, C. H., Persekian, A., Orozco, D., Chang, Y., Sandstrom, E., Liu, B., & Vasconcelos, N. (2019). Oowl500: Overcoming dataset collection bias in the wild. ArXiv:2108.10992 [Cs]. \[[Paper](http://arxiv.org/pdf/2108.10992.pdf)\] \[[Project Page](https://b7leung.github.io/projects/drone-flight-dataset/)\]
 
-**Leung, B.**, Ho, C.H., & Vasconcelos, N. (2021). Black-box test-time shape refinement for single view 3d reconstruction. ArXiv:2108.09911 [Cs]. \[[Paper](http://arxiv.org/pdf/2108.09911.pdf)\] \[[Project Page](https://b7leung.github.io/projects/3d-reconstruction-refinement/)\]
+**Leung, B.**, Ho, C.H., & Vasconcelos, N. (2021). Black-box test-time shape refinement for single view 3d reconstruction. ArXiv:2108.09911 [Cs]. MS Thesis. \[[Paper](http://arxiv.org/pdf/2108.09911.pdf)\] \[[Project Page](https://b7leung.github.io/projects/3d-reconstruction-refinement/)\]
 
 **Leung, B.**, Singh, S., & Horodniceanu, A. (2021). Domain adaptation for real-world single view 3d reconstruction. ArXiv:2108.10972 [Cs]. \[[Paper](http://arxiv.org/pdf/2108.10972.pdf)\] \[[Project Page](https://b7leung.github.io/projects/da-for-sv-reconstruction/)\]
 
