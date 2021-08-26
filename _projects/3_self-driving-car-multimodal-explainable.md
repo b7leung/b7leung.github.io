@@ -22,4 +22,4 @@ A currently ongoing project, where I am guiding the formulation and development 
   <figcaption>A different approach we are also experimenting with, using a single multimodal selector.</figcaption>
 </figure>
 
-_Collaborators on this project: Arth Dharaskar, Allen Cheung, Chih-Hui Ho, Tz-Ying Wu._
+_Other collaborators on this project: Arth Dharaskar, Allen Cheung, Chih-Hui Ho, Tz-Ying Wu._

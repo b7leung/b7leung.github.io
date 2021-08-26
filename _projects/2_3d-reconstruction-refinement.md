@@ -31,4 +31,4 @@ This project proposes a novel neural network **refinement algorithm and paradigm
 Citation Info
 ======
 
-_**Leung, B.**, Ho, C.-H., & Vasconcelos, N. (2021). Black-box test-time shape refinement for single view 3d reconstruction. ArXiv:2108.09911 [Cs]. http://arxiv.org/abs/2108.09911_
+_**Leung, B.**, Ho, C.H., & Vasconcelos, N. (2021). Black-box test-time shape refinement for single view 3d reconstruction. ArXiv:2108.09911 [Cs]. http://arxiv.org/abs/2108.09911_

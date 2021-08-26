@@ -44,4 +44,4 @@ Within my group of collaborators, I mainly worked on the UI, deployment, and gen
   <figcaption>More examples of generative modeling from the stylized chatbot, trained on several users' chat logs.</figcaption>
 </figure>
 
-_Collaborators on this project: Shivad Bhavsar, Rex Chen, Jiayi Luo, Rongxiang Zhang, Kevin Youssef._
+_Other collaborators on this project: Shivad Bhavsar, Rex Chen, Jiayi Luo, Rongxiang Zhang, Kevin Youssef._

@@ -39,4 +39,4 @@ Citation Info
 
 _**Leung, B.\***, Ho, C. H.\*, Sandstrom, E., Chang, Y., & Vasconcelos, N. (2019). Catastrophic child's play: Easy to perform, hard to defend adversarial attacks. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 9229-9237)._
 
-_**Leung, B.**, Ho, C.-H., Persekian, A., Orozco, D., Chang, Y., Sandstrom, E., Liu, B., & Vasconcelos, N. (2021). Oowl500: Overcoming dataset collection bias in the wild. ArXiv:2108.10992 [Cs]. http://arxiv.org/abs/2108.10992_
+_**Leung, B.**, Ho, C. H., Persekian, A., Orozco, D., Chang, Y., Sandstrom, E., Liu, B., & Vasconcelos, N. (2021). Oowl500: Overcoming dataset collection bias in the wild. ArXiv:2108.10992 [Cs]. http://arxiv.org/abs/2108.10992_
