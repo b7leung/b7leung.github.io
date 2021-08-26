@@ -1,19 +1,19 @@
 ---
 title: "Domain Adaptation for Real-World Single View 3D Reconstruction"
-excerpt: "📅 **Jun. 2020 - Dec. 2020** • 🔎[More Info](https://b7leung.github.io/projects/da-for-sv-reconstruction/) • 📄 [Paper](https://b7leung.github.io/files/DA_For_SVR.pdf) <br/> Studies the application of several domain adaptation techniques (MMD, Deep CORAL, DANN) to enable unsupervised transfer from CAD ShapeNet data to real world data, for the task of single view 3D reconstruction. <br/><img src='/images/DA_For_SVR_Main_Picture.png'>"
+excerpt: "📅 **Jun. 2020 - Dec. 2020** • 🔎[More Info](https://b7leung.github.io/projects/da-for-sv-reconstruction/) • 📄 [Paper](http://arxiv.org/abs/2108.10972) <br/> Studies the application of several domain adaptation techniques (MMD, Deep CORAL, DANN) to enable unsupervised transfer from CAD ShapeNet data to real world data, for the task of single view 3D reconstruction. <br/><img src='/images/DA_For_SVR_Main_Picture.png'>"
 collection: projects
 redirect_from: 
   - /projects/da-for-sv-reconstruction/
 ---
 
-📅 **Jun. 2020 - Dec. 2020** • 📄 [Paper](https://b7leung.github.io/files/DA_For_SVR.pdf) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/Domain-Adaptation-Single-View-Reconstruction)
+📅 **Jun. 2020 - Dec. 2020** • 📄 [Paper](http://arxiv.org/abs/2108.10972) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/Domain-Adaptation-Single-View-Reconstruction)
 
 <figure>
   <img src="/images/DA_For_SVR_Main_Picture.png" >
   <figcaption>The proposed architecture, which is based off the pix2vox framework. We provide two additions: 1) incorporating domain adaptation in the style of DANN through a domain classifier and a gradient reversal layer, and 2) since we have classification labels for both the source and target domain, we also classify the produced voxel.</figcaption>
 </figure>
 
-In this project, several **unsupervised domain adaptation** methods were applied to the task of **single view 3D reconstruction**, including MMD, Deep CORAL, and DANN. The source domain is ShapeNet which is synthetic, while the target domain is OOWL which is in the real domain (I helped design OOWL, see [here](https://b7leung.github.io/projects/drone-flight-dataset/) for more details). Overall, we found that our proposed **DANN with a multitask learning voxel classification branch** led to the best results. For details, please refer to the [paper](https://b7leung.github.io/files/DA_For_SVR.pdf).
+In this project, several **unsupervised domain adaptation** methods were applied to the task of **single view 3D reconstruction**, including MMD, Deep CORAL, and DANN. The source domain is ShapeNet which is synthetic, while the target domain is OOWL which is in the real domain (I helped design OOWL, see [here](https://b7leung.github.io/projects/drone-flight-dataset/) for more details). Overall, we found that our proposed **DANN with a multitask learning voxel classification branch** led to the best results. For details, please refer to the [paper](http://arxiv.org/abs/2108.10972).
 
 
 <figure>
