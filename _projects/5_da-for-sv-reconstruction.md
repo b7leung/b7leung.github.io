@@ -35,6 +35,6 @@ In this project, several **unsupervised domain adaptation** methods were applied
 Citation Info
 ======
 
-_**Leung, B.**, Singh, S., & Horodniceanu, A. (2021). Domain adaptation for real-world single view 3d reconstruction. ArXiv:2108.10972 [Cs]. http://arxiv.org/abs/2108.10972_
+_**Leung, B.**, Singh, S., & Horodniceanu, A. (2020). Domain adaptation for real-world single view 3d reconstruction. ArXiv:2108.10972 [Cs]. http://arxiv.org/abs/2108.10972_
 
 
