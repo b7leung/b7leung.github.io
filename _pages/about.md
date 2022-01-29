@@ -10,9 +10,9 @@ redirect_from:
 
 About Me
 ======
-Hi! I'm a Masters student majoring in Machine Learning and Data Science at UC San Diego, expecting to graduate in February 2022. I have researched computer vision at the [Statistical Visual Computing Laboratory](http://www.svcl.ucsd.edu/) for 4 years. My passion is applying software engineering to cutting-edge ML/AI research, towards solving challenging real-world problems. 
+Hi! I'm a Masters student majoring in Machine Learning and Data Science at UC San Diego, expecting to graduate in March 2022. I have researched computer vision at the [Statistical Visual Computing Laboratory](http://www.svcl.ucsd.edu/) for 5 years. My passion is applying software engineering to cutting-edge ML/AI research, towards solving challenging real-world problems. 
 
-In my research, I have focused on various topics including 2D/3D detection, domain adaptation, autonomous vehicle navigation, GANs, 3D reconstruction, embeddings, self-supervised learning, and explainable neural networks. For details, please see the [projects page](https://b7leung.github.io/projects/).
+In my research, I have focused on various topics including 2D/3D detection, domain adaptation, autonomous vehicle navigation, GANs, 3D reconstruction, embeddings, self-supervised learning, efficient ML, and explainable ML. For details, please see the [projects page](https://b7leung.github.io/projects/).
 
 Previously, I earned a Bachelors degree from UC San Diego in Computer Science. More details can be found in my [resume](https://b7leung.github.io/files/Resume_Brandon_Leung.pdf), and my [CV](https://b7leung.github.io/files/CV_Brandon_Leung.pdf).
 
