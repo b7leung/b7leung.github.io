@@ -18,8 +18,8 @@ main:
   - title: "Resume"
     url: /files/Resume_Brandon_Leung.pdf
     
-  - title: "CV"
-    url: /files/CV_Brandon_Leung.pdf
+  #- title: "CV"
+  #  url: /files/CV_Brandon_Leung.pdf
 
   #- title: "Guide"
   #  url: /markdown/
