@@ -24,7 +24,7 @@ Highlights and News
   *  🎉 Awarded **Sloan Graduate Fellowship** from the [Sloan Foundation](https://sloan.org/). [Sep. 2019]
   *  📜 [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) on [neural network robustness](https://b7leung.github.io/projects/drone-flight-dataset/) **published at CVPR 2019**. [Jun. 2019]
   *  🎓 Graduated **Magna Cum Laude at UCSD, B.Sc in Computer Science**. [Jun. 2019] 
-  *  🎉 Won 2019 **UCSD Undergraduate Research Award** (2 students awarded yearly). [May 2019]
+  *  🎉 Won **UCSD Undergraduate Research Award** (2 students awarded yearly). [May 2019]
   *  🎉 Awarded an **NSF REU Research Grant**. [Sep. 2018]
   *  🎉 Awarded the **Qualcomm Alumni Scholarship**. [Sep. 2018]
   *  🏫 **TA** for DSC 40A/B, 2 new data science courses at UCSD. [Jan. 2018]
