@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-This page provides a concise list of my publications. A link to each paper and individual project page is also provided. For a full overview of all my projects, please refer to the [overall projects page](https://b7leung.github.io/projects/).
+The following is a list of my publications; for a more detailed view of all my projects, please refer to the [overall projects page](https://b7leung.github.io/projects/).
 
 **Leung, B.**, Ho, C.H., & Vasconcelos, N. (2022). Black-box test-time shape refinement for single view 3d reconstruction. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop on Learning with Limited Labelled Data \[[Paper](http://arxiv.org/pdf/2108.09911.pdf)\] \[[Project Page](https://b7leung.github.io/projects/3d-reconstruction-refinement/)\]
 

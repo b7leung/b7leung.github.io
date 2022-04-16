@@ -32,3 +32,5 @@ Citation Info
 ======
 
 _**Leung, B.**, Ho, C.H., & Vasconcelos, N. (2021). Black-box test-time shape refinement for single view 3d reconstruction. ArXiv:2108.09911 [Cs]. MS Thesis. http://arxiv.org/abs/2108.09911_
+
+_**Leung, B.**, Ho, C.H., & Vasconcelos, N. (2022). Black-box test-time shape refinement for single view 3d reconstruction. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop on Learning with Limited Labelled Data_
