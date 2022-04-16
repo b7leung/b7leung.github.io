@@ -10,14 +10,16 @@ redirect_from:
 
 About Me
 ======
-Hi! I'm a Masters student majoring in Machine Learning and Data Science at UC San Diego, expecting to graduate in March 2022. I have researched computer vision at the [Statistical Visual Computing Laboratory](http://www.svcl.ucsd.edu/) for 5 years. My passion is applying software engineering to cutting-edge ML/AI research, towards solving challenging real-world problems. 
+Hi! I recently obtained a Masters in Machine Learning and Data Science at UC San Diego, April 2022. I have been researching computer vision at the [Statistical Visual Computing Laboratory](http://www.svcl.ucsd.edu/) for 5 years. My passion is applying software engineering to cutting-edge ML/AI research, towards solving challenging real-world problems. 
 
 In my research, I have focused on various topics including 2D/3D detection, domain adaptation, autonomous vehicle navigation, GANs, 3D reconstruction, embeddings, self-supervised learning, efficient ML, and explainable ML. For details, please see the [projects page](https://b7leung.github.io/projects/).
 
-Previously, I earned a Bachelors degree from UC San Diego in Computer Science. More details can be found in my [resume](https://b7leung.github.io/files/Resume_Brandon_Leung.pdf), and my [CV](https://b7leung.github.io/files/CV_Brandon_Leung.pdf).
+Previously, I earned a Bachelors degree from UC San Diego in Computer Science. More details can be found in my [resume](https://b7leung.github.io/files/Resume_Brandon_Leung.pdf).
 
 Highlights and News
 ======
+  *  Graduated from UCSD with a masters in Machine Learning and Data Science. My MS thesis studies learned visual invariances, through hierarchical dataset design. [Mar. 2020]  
+  *  [Paper](https://arxiv.org/pdf/2108.09911.pdf) on [test-time 3D shape refinement for domain robustness](https://b7leung.github.io/projects/2_3d-reconstruction-refinement/) published at [CVPRW 2022](https://sites.google.com/view/l3d-ivu/), where I will give a poster presentation. [Mar. 2020]
   *  Awarded **NSF Graduate Research Fellowship (NSF GRFP)** from the [US National Science Foundation Agency](https://www.nsfgrfp.org/). [Mar. 2020]
   *  Awarded **Sloan Graduate Fellowship** from the [Sloan Foundation](https://sloan.org/). [Sep. 2019]
   *  [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) on [neural network robustness to drone images](https://b7leung.github.io/projects/drone-flight-dataset/) **published at CVPR 2019**, where I will give a poster presentation. [Jun. 2019]
