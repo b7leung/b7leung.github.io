@@ -11,7 +11,7 @@ author_profile: true
 
 The following is a list of my publications; for a more detailed view of all my projects, please refer to the [overall projects page](https://b7leung.github.io/projects/).
 
-**Leung, B.**, Ho, C.H., & Vasconcelos, N. (2022). Black-box test-time shape refinement for single view 3d reconstruction. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop on Learning with Limited Labelled Data \[[Paper](http://arxiv.org/pdf/2108.09911.pdf)\] \[[Project Page](https://b7leung.github.io/projects/3d-reconstruction-refinement/)\]
+**Leung, B.**, Ho, C.H., & Vasconcelos, N. (2022). Black-box test-time shape refinement for single view 3d reconstruction. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop on Learning with Limited Labelled Data \[[Paper](http://www.svcl.ucsd.edu/projects/OOWL/CVPRW2022_REFINE/REFINE.pdf)\] \[[Project Page](https://b7leung.github.io/projects/3d-reconstruction-refinement/)\]
 
 **Leung, B.** (2022). Understanding Learned Visual Invariances Through Hierarchical Dataset Design and Collection. MS Thesis. \[[Paper](http://www.svcl.ucsd.edu/projects/3d_odds/Brandon_Leung_MS_Thesis.pdf)\] 
 

@@ -19,7 +19,7 @@ Previously, I earned a Bachelors degree from UC San Diego in Computer Science. M
 Highlights and News
 ======
   *  🎓 Graduated UCSD with **Masters Degree in Machine Learning and Data Science**. My [MS thesis](http://www.svcl.ucsd.edu/projects/3d_odds/Brandon_Leung_MS_Thesis.pdf) studies learned visual invariances with hierarchical dataset design. [Apr. 2022]
-  *  📜 [Paper](https://arxiv.org/pdf/2108.09911.pdf) on [test-time 3D shape refinement for domain robustness](https://b7leung.github.io/projects/2_3d-reconstruction-refinement/) **published at [CVPRW 2022](https://sites.google.com/view/l3d-ivu/)**. [Apr. 2022]
+  *  📜 [Paper](http://www.svcl.ucsd.edu/projects/OOWL/CVPRW2022_REFINE/REFINE.pdf) on [test-time 3D shape refinement for domain robustness](https://b7leung.github.io/projects/2_3d-reconstruction-refinement/) **published at [CVPRW 2022](https://sites.google.com/view/l3d-ivu/)**. [Apr. 2022]
   *  🎉 Awarded **NSF Graduate Research Fellowship (NSF GRFP)** from the [US National Science Foundation Agency](https://www.nsfgrfp.org/). [Mar. 2020]
   *  🎉 Awarded **Sloan Graduate Fellowship** from the [Sloan Foundation](https://sloan.org/). [Sep. 2019]
   *  📜 [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) on [neural network robustness](https://b7leung.github.io/projects/drone-flight-dataset/) **published at CVPR 2019**. [Jun. 2019]

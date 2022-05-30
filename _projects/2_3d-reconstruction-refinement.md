@@ -1,16 +1,16 @@
 ---
 title: "Refining Single View 3D Reconstructions with Self-Supervised Machine Learning"
-excerpt: "📅 **Jan. 2021 - Present** • 🔎[More Info](https://b7leung.github.io/projects/3d-reconstruction-refinement/) • 📄 [Paper](https://arxiv.org/pdf/2108.09911.pdf) <br/> A novel neural network refinement algorithm to generate 3D meshes from a single image. Used self-supervised learning & symmetry regularization; beats state-of-the-art (up to 47%), across many datasets. <br/><img src='/images/REFINE_Main_Picture.png'>"
+excerpt: "📅 **Jan. 2021 - Present** • 🔎[More Info](https://b7leung.github.io/projects/3d-reconstruction-refinement/) • 📄 [CVPRW Paper](http://www.svcl.ucsd.edu/projects/OOWL/CVPRW2022_REFINE/REFINE.pdf) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/REFINE) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPRW2022_REFINE.html) <br/> A novel neural network refinement algorithm to generate 3D meshes from a single image. Used self-supervised learning & symmetry regularization; beats state-of-the-art (up to 47%), across many datasets. <br/><img src='/images/REFINE_Main_Picture.png'>"
 collection: projects
 redirect_from: 
   - /projects/3d-reconstruction-refinement/
 ---
 
-📅 **Jan. 2021 - Present** • 📄 [Paper](https://arxiv.org/pdf/2108.09911.pdf) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/3D-Mesh-REFINEment)
+📅 **Jan. 2021 - Present** • 📄 [Paper](http://www.svcl.ucsd.edu/projects/OOWL/CVPRW2022_REFINE/REFINE.pdf) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/REFINE) • 📄 [Poster](http://www.svcl.ucsd.edu/projects/OOWL/CVPRW2022_REFINE/cvpr22_REFINE_poster.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPRW2022_REFINE.html)
 
 <img src='/images/REFINE_Main_Picture.png'>
 
-This project proposes a novel neural network **refinement algorithm and paradigm to improve 3D mesh reconstructions** from any single-view reconstruction method. This is done by using **self-supervised learning** to exploit the silhouette of the input image, encouraging consistency between the mesh and the given object view by differentiable 3D rendering. In addition, several **symmetry** based losses are introduced to regularize the refinement. The use of the refinement at test time **beats state-of-the-art (up to 47%), across many datasets, metrics, and object classes**. The refinement step that can be easily integrated into the pipeline of any black-box method in the literature. Python, PyTorch, and PyTorch 3D are extensively used. For more details, please refer to the [full paper](https://arxiv.org/pdf/2108.09911.pdf).
+This project proposes a novel neural network **refinement algorithm and paradigm to improve 3D mesh reconstructions** from any single-view reconstruction method. This is done by using **self-supervised learning** to exploit the silhouette of the input image, encouraging consistency between the mesh and the given object view by differentiable 3D rendering. In addition, several **symmetry** based losses are introduced to regularize the refinement. The use of the refinement at test time **beats state-of-the-art (up to 47%), across many datasets, metrics, and object classes**. The refinement step that can be easily integrated into the pipeline of any black-box method in the literature. Python, PyTorch, and PyTorch 3D are extensively used. For more details, please refer to the [full paper](http://www.svcl.ucsd.edu/projects/OOWL/CVPRW2022_REFINE/REFINE.pdf).
 
 <figure>
   <img src="/images/REFINE/refine_qual.png">
