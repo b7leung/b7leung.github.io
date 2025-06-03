@@ -1,12 +1,12 @@
 ---
 title: "Self-Driving Cars using 2D/3D Action and Explanation Prediction"
-excerpt: "📅 **Feb. 2021 - Present** • 🔎[More Info](https://b7leung.github.io/projects/self-driving-car-multimodal-explainable/)<br/> A neural network model currently in development for self-driving cars. Utilizes multimodal fusion with 2D images and 3D pointclouds to predict navigation actions. Additionally, 2D and 3D explanations are jointly predicted to provide intuitive explanations for model decisions. <br/><img src='/images/av_main_picture.png'>"
+excerpt: "📅 **Feb. 2021 - May 2022** • 🔎[More Info](https://b7leung.github.io/projects/self-driving-car-multimodal-explainable/)<br/> A neural network model currently in development for self-driving cars. Utilizes multimodal fusion with 2D images and 3D pointclouds to predict navigation actions. Additionally, 2D and 3D explanations are jointly predicted to provide intuitive explanations for model decisions. <br/><img src='/images/av_main_picture.png'>"
 collection: projects
 redirect_from: 
   - /projects/self-driving-car-multimodal-explainable/
 ---
 
-📅 **Feb. 2021 - Present**
+📅 **Feb. 2021 - May 2022**
 
 <img src='/images/av_main_picture.png'>
 
