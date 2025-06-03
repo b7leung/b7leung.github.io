@@ -1,12 +1,12 @@
 ---
 title: "Drone Flight Dataset for Neural Network Classification Robustness"
-excerpt: "📅 **Sep. 2018 - Present** • 🔎[More Info](https://b7leung.github.io/projects/drone-flight-dataset/) • 📄 [CVPR Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) <br/> A drone flight system to collect over 120,000 images. The dataset was used to conduct experiments showing severe vulnerabilities in neural networks to pose & camera shake, which we improve by 32%. Findings published to CVPR 2019. <br/><img src='/images/OOWL_Main_Picture.jpg'>"
+excerpt: "📅 **Sep. 2018 - May 2022** • 🔎[More Info](https://b7leung.github.io/projects/drone-flight-dataset/) • 📄 [CVPR Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) <br/> A drone flight system to collect over 120,000 images. The dataset was used to conduct experiments showing severe vulnerabilities in neural networks to pose & camera shake, which we improve by 32%. Findings published to CVPR 2019. <br/><img src='/images/OOWL_Main_Picture.jpg'>"
 collection: projects
 redirect_from: 
   - /projects/drone-flight-dataset/
 ---
 
-📅 **Sep. 2018 - Present** • 📄 [CVPR Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 📄 [Dataset Paper](http://arxiv.org/pdf/2108.10992.pdf) • 📄 [Drone Algorithm Info](https://docs.google.com/presentation/d/15NlP05SLmo0Nyx40LU_9Uzq4h6xHTv1L-L0a8x-TYOY/edit?usp=sharing) <br/> 📄 [Poster](https://b7leung.github.io/files/cvpr19_adversarial_poster_final.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/OOWL-Drone-Flight-System)
+📅 **Sep. 2018 - May 2022** • 📄 [CVPR Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ho_Catastrophic_Childs_Play_Easy_to_Perform_Hard_to_Defend_Adversarial_CVPR_2019_paper.pdf) • 📄 [Dataset Paper](http://arxiv.org/pdf/2108.10992.pdf) • 📄 [Drone Algorithm Info](https://docs.google.com/presentation/d/15NlP05SLmo0Nyx40LU_9Uzq4h6xHTv1L-L0a8x-TYOY/edit?usp=sharing) <br/> 📄 [Poster](https://b7leung.github.io/files/cvpr19_adversarial_poster_final.pdf) • 🌐 [Main Website](http://www.svcl.ucsd.edu/projects/OOWL/CVPR2019_adversarial.html) • <img src="/images/github_icon.png" width="20" height="20"> [Github](https://github.com/b7leung/OOWL-Drone-Flight-System)
 
 
 
