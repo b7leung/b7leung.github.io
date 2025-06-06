@@ -21,6 +21,7 @@ I also developed & maintain **[a set of 250+ ML Flashcards](https://github.com/b
 
 Highlights and News
 ======
+  * **US [Patent US2025/0028326A1](https://patentimages.storage.googleapis.com/b4/cf/66/d272b4d7fd814b/US20250028326A1.pdf) Published** for Tesla Vision Only Park Assist, titled "Enhanced User Interface Generation for Parking Based on Occupancy Machine Learning Models"
   * **Awarded Tesla Exceptional Performance Equity Grant**, given to top 20% talent in Autopilot [Aug 2024]
   * **Promoted to Senior Machine Learning & Computer Vision Engineer** at Tesla [Feb 2024]
   * **Machine Learning & Computer Vision Engineer** at Tesla [Aug 2022]
